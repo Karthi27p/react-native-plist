@@ -1,0 +1,39 @@
+{
+  "name": "react-native-plist",
+  "title": "React Native Plist",
+  "version": "1.0.0",
+  "description": "Leverage the usage of iOS plist with react native to share data between native iOS and js by creating plist inside the app bundle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karthi27p/react-native-plist.git",
+    "baseUrl": "https://github.com/Karthi27p/react-native-plist"
+  },
+  "keywords": [
+    "react-native",
+    "plist",
+    "ios",
+    "react-native-plist",
+    "ios-plist",
+    "plist-config"
+  ],
+  "author": {
+    "name": "Karthi Palaniappan",
+    "email": "karthi27p@gmail.com"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "16.9.0",
+    "react-native": "0.61.5"
+  },
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.58.0",
+    "react": "^16.8.3",
+    "react-native": "^0.59.10"
+  }
+}
